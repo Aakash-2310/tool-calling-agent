@@ -1,0 +1,6 @@
+langchain==0.2.16
+langchain-core==0.2.41
+langchain-community==0.2.16
+langchain-google-genai>=1.0.7
+python-dotenv>=1.0.1
+requests>=2.32.0

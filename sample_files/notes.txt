@@ -1,0 +1,21 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence.
+
+Examples of AI applications include:
+
+1. Voice assistants like Siri and Alexa
+2. Recommendation systems used by YouTube and Netflix
+3. Self-driving cars
+4. Chatbots and virtual assistants
+5. Image and face recognition systems
+
+AI works using techniques such as Machine Learning, Deep Learning, and Natural Language Processing.
+
+Machine Learning allows computers to learn from data without being explicitly programmed.
+
+Deep Learning uses neural networks to solve complex problems such as image recognition and language translation.
+
+Natural Language Processing (NLP) helps computers understand and communicate in human language.
+
+AI is used in many industries including healthcare, education, finance, and transportation.
+
+In the future, AI will continue to improve automation, increase efficiency, and create new technologies that benefit society.
